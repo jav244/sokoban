@@ -1,0 +1,10 @@
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\bin\Debug\FilerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\bin\Debug\FilerNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\obj\Debug\FilerNS.csprojResolveAssemblyReference.cache
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\obj\Debug\FilerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\obj\Debug\FilerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\bin\Debug\FilerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\bin\Debug\FilerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\obj\Debug\FilerNS.csprojResolveAssemblyReference.cache
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\obj\Debug\FilerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\FilerNS\obj\Debug\FilerNS.pdb

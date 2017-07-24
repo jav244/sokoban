@@ -1,0 +1,40 @@
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.exe.config
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.exe
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.csprojResolveAssemblyReference.cache
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.Properties.Resources.resources
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.csproj.GenerateResource.Cache
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.exe
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.BaseForm.resources
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.DesignerFormView.resources
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\DesignerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\FilerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\DesignerNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\FilerNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\GameNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\GameNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.GameFormView.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.exe.config
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.exe
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.exe
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\DesignerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\FilerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\GameNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\DesignerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\FilerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\GameNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.csprojResolveAssemblyReference.cache
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.BaseForm.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.DesignerFormView.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.GameFormView.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.Properties.Resources.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.csproj.GenerateResource.Cache
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.ManualDesignerFormView.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.ManualDesignerFormView.resources
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.DesignerButtonFormView.resources
+D:\cpitBict\2nd_year\2nd_semester\PR283\Project\bigProject\WinFormNS\WinFormNS\bin\Debug\WinFormNS.exe.config
+D:\cpitBict\2nd_year\2nd_semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.exe
+D:\cpitBict\2nd_year\2nd_semester\PR283\Project\bigProject\WinFormNS\WinFormNS\obj\Debug\WinFormNS.pdb

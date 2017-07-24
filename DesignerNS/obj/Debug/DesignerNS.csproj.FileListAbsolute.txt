@@ -1,0 +1,14 @@
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\DesignerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\DesignerNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\FilerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\FilerNS.pdb
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\obj\Debug\DesignerNS.csprojResolveAssemblyReference.cache
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\obj\Debug\DesignerNS.dll
+D:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\obj\Debug\DesignerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\DesignerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\DesignerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\FilerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\bin\Debug\FilerNS.pdb
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\obj\Debug\DesignerNS.csprojResolveAssemblyReference.cache
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\obj\Debug\DesignerNS.dll
+E:\cpitBict\2nd year\2nd semester\PR283\Project\bigProject\WinFormNS\DesignerNS\obj\Debug\DesignerNS.pdb
